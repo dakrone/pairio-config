@@ -11,5 +11,5 @@ inbound-ports:
 
 provision: none # none | sh | chef
 
-pairio-image: 4e282f12e4b0a589ac0b2136-dakrone-dakrone/pairio-config
+pairio-image: 4e2ecf75e4b05e4b71ad6d8f-dakrone-dakrone/pairio-config
 
