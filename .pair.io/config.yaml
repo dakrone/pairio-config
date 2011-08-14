@@ -8,6 +8,9 @@ inbound-ports:
   - 22
   - 80
   - 81
+  - 9200
+  - 9201
+  - 4005
 
 provision: none # none | sh | chef
 
